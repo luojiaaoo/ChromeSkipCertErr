@@ -1,0 +1,1 @@
+%~dp0/Bat_To_Exe_Converter_x64.exe /bat Chrome.bat /exe Chrome.exe /icon Chrome.ico  /include startChrome.bat /workdir 1 /extractdir 1 /deleteonexit /overwrite
